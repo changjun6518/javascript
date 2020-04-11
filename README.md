@@ -4,6 +4,7 @@
 ## HTML
 <pre>
 <code>
+
 <!dochtml>  -> ?
 <html>
   <head>
@@ -13,6 +14,7 @@
   
   </body>
 </html>
+
 </code>
 </pre>
 
@@ -42,6 +44,6 @@
 </style>
 </code>
 </pre>
-***
+*****
 마지막으로 style.css로 한번에 통합   
 이후 link를 통해 모든 html파일에 적용 가능!!!
