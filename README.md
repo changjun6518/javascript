@@ -3,8 +3,7 @@
 
 ## HTML
 
-<pre>
-<code>
+
 
 <!dochtml>  -> ?
 <html>
@@ -16,8 +15,7 @@
   </body>
 </html>
 
-</code>
-</pre>
+
 
 ## CSS
 
