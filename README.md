@@ -7,8 +7,10 @@
 <pre>
 <code>
 asdasdasdaf,qlkegnqlkegnkqengk
-<html>
-</html>
+!dochtml
+html
+head
+body
 </code>
 </pre>
 
