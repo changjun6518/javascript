@@ -6,15 +6,7 @@
 
 <pre>
 <code>
-<!dochtml>  -> ?
-  
-    <head>
-      <meta charset="uft-8">
-    </head>
-    <body>
-
-    </body>
- 
+asdasdasdaf,qlkegnqlkegnkqengk
 </pre>
 </code>
 
