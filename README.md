@@ -4,17 +4,19 @@
 ## HTML
 
 
-
+<pre>
+<code>
 <!dochtml>  -> ?
-<html>
-  <head>
-    <meta charset="uft-8">
-  </head>
-  <body>
-  
-  </body>
-</html>
+  <html>
+    <head>
+      <meta charset="uft-8">
+    </head>
+    <body>
 
+    </body>
+  </html>
+</pre>
+</code>
 
 
 ## CSS
