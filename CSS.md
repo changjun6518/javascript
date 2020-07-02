@@ -25,3 +25,10 @@
 ***
 
   
+ 1. postioning
+ 
+  block or inline 으로 구성된 것을 노멀 플로우라 하는데 이것만 이용하기에는 불편함
+  
+  float를 이용하면 자연스럽게 사진 옆에 글이 오도록 가능
+  
+  position은 relative absolute fixed
