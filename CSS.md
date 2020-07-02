@@ -32,3 +32,13 @@
   float를 이용하면 자연스럽게 사진 옆에 글이 오도록 가능
   
   position은 relative absolute fixed
+
+***
+
+  1. selector
+  
+  태그 , 클래스 , id 선택자  역순으로 우선순위 높음...!
+  
+  어렵습니다 직접 사용해보면서 기억하기
+  
+  cascading 이란?
